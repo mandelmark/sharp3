@@ -1,1 +1,16 @@
-com.HubLawtanApp3.pgappsharphelper
+{
+            "ads": {"network":"applovin","url":""},
+            "reword": {"items":""},
+            
+            "fan": {
+            "banner":"",
+            "inter":"",
+            "nativ":"",
+            "reword":""},
+            
+            "applovin": {
+            "banner":"30e6901914488293",
+            "inter":"e6aef07b58f13313",
+            "nativ":"d098e56bf6f336b3",
+            "reword":"6759ab3814c7c38e"}
+            }
